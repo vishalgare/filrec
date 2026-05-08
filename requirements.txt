@@ -1,0 +1,7 @@
+flask
+pandas
+requests
+python-dotenv
+gdown
+scikit-learn
+numpy
